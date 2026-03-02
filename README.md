@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently working on Nexoshare, my selfhostable Wetransfer alternative, made for professionals.<br>I am a beginner with javascript and typescript, and a bit of python, HTML and CSS.<br>For my work, my proudest achievement was a heavily modified fork of an Android RDP-Client, made for manageability and reliability at its core. 
+I’m a builder focused on privacy and reliable tools. While I don't consider myself a "hardcore" developer, I love creating software that gives professionals more control over their data.
+
+Currently, I’m building Nexoshare, a self-hostable alternative to WeTransfer developed with TypeScript. For my other projects and experiments, I typically use Python, Typescript or otherwise JavaScript, and HTML/CSS.
+
+My proudest achievement so far is a heavily modified fork of an Android RDP-Client. I focused on rewriting it for better manageability and rock-solid reliability, ensuring it performs when it matters most.
 
 
 ## 🌐 Socials:
