@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a builder focused on privacy and reliable tools. While I don't consider myself a "hardcore" developer, I love creating software that gives professionals more control over their data.
 
-Currently, I’m building Nexoshare, a self-hostable alternative to WeTransfer developed with TypeScript. For my other projects and experiments, I typically use Python, Typescript or otherwise JavaScript, and HTML/CSS.
+Currently, I’m building Nexoshare, a self-hostable alternative to WeTransfer developed with TypeScript, and ClipCookBook, a self-hosted AI recipe generator, that generates and stores recipes from social media links, also build using TypeScript. For my other projects and experiments, I typically use Python, Typescript or otherwise JavaScript, and HTML/CSS.
 
 My proudest achievement so far is a heavily modified fork of an Android RDP-Client. I focused on rewriting it for better manageability and rock-solid reliability, ensuring it performs when it matters most.
 
